@@ -1,7 +1,6 @@
 # Task List
 
 - Task List is a DOM manupilation based project using JavaScript
-- Visit - [Task List]()
 
 ## Tech Used
 
