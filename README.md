@@ -8,6 +8,8 @@
 - Materialize CSS
 - JavaScript
 
+---
+
 # Author
 
 - Name - Abhinav
