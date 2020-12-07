@@ -6,7 +6,7 @@
 
 - HTML
 - Materialize CSS
-- JavaScript (Use of DOM Manipulation, Event Handling & Local Storage)
+- JavaScript (Use of DOM Manipulation, Event Handling & Local Storage API)
 
 ---
 
